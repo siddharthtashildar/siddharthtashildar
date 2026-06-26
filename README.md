@@ -41,7 +41,7 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/bh.jpg" width="230" alt="CP2077 Character"/>
+<img align="right" src="assets/glitch.gif" width="230" alt="CP2077 Character"/>
 
 ```yaml
 HANDLE     : Siddharth Tashildar
@@ -151,7 +151,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 <!--   SWAP THIS with a CP2077 stats / HUD screenshot PNG      -->
 <!--   e.g. V's stat screen, attribute upgrade screen          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="YOUR_CP2077_HUD_OR_STATS_IMAGE_URL_HERE" width="60%" alt="CP2077 Stats HUD"/>
+<img src="assets/panam.gif" width="60%" alt="CP2077 Stats HUD"/>
 
 <br><br>
 
@@ -184,7 +184,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 <!--   e.g. Night City rain, Johnny on the roof, V driving     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="YOUR_OUTRO_CINEMATIC_GIF_URL_HERE" width="100%" alt="Night City Outro"/>
+<img src="assets/lets-go-johnny-silverhand.gif" width="100%" alt="Night City Outro"/>
 </div>
 
 <div align="center">
