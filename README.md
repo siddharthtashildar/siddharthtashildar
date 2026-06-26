@@ -108,6 +108,11 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 ![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=0D0D0D)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF2D78?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-FCF000?style=for-the-badge&logo=cisco&logoColor=0D0D0D)
+![Linux](https://img.shields.io/badge/Linux-FCF000?style=for-the-badge&logo=linux&logoColor=0D0D0D)
+![Blender](https://img.shields.io/badge/Blender-FCF000?style=for-the-badge&logo=blender&logoColor=0D0D0D)
+![Unity](https://img.shields.io/badge/Unity-FCF000?style=for-the-badge&logo=unity&logoColor=0D0D0D)
+![VSCode](https://img.shields.io/badge/VSCode-FCF000?style=for-the-badge&logo=visual-studio-code&logoColor=0D0D0D)
+
 
 </div>
 
@@ -127,7 +132,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 
 > *"The Relic doesn't just store data — it rewrites who you are. My builds do the same."*
 
-```
+<!-- ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  PROJECT : NETWATCH — Real-time Network Analyzer              ║
 ║  CLASS   : Offensive Netrunner Rig                            ║
@@ -139,7 +144,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 ║  "Sniffs every packet on the wire. Flags the gonks before     ║
 ║   they even know they've been made. Corps hate this rig."     ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+``` -->
 
 ---
 
