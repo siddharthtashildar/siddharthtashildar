@@ -41,7 +41,7 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/cat.gif" width="230" alt="CP2077 Character"/>
+<img align="right" src="assets/bh.jpg" width="230" alt="CP2077 Character"/>
 
 ```yaml
 HANDLE     : Siddharth Tashildar
