@@ -4,7 +4,7 @@
 <!--           SWAP THIS with a CP2077 city skyline GIF        -->
 <!--  e.g. Night City aerial shot / neon streets in rain       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlyNHpvOHEwMjViMWVvYW15a3ptMDNjcDBvbDZna3Nkd2NmNXJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" width="100%" alt="Night City Banner"/>
+<img src="https://tenor.com/view/night-city-cyberpunk2077-night-sky-city-in-the-night-night-life-gif-26950364" width="100%" alt="Night City Banner"/>
 
 <!-- If you don't have a gif yet, uncomment this capsule fallback: -->
 <!--
@@ -41,7 +41,7 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="YOUR_CP2077_CHARACTER_GIF_URL_HERE" width="230" alt="CP2077 Character"/>
+<img align="right" src="https://tenor.com/view/night-city-cyberpunk-cyberpunk-2077-cyber-punk-night-gif-4859965518658826247" width="230" alt="CP2077 Character"/>
 
 ```yaml
 HANDLE     : Siddharth Tashildar
