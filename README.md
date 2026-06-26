@@ -4,7 +4,7 @@
 <!--           SWAP THIS with a CP2077 city skyline GIF        -->
 <!--  e.g. Night City aerial shot / neon streets in rain       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="YOUR_NIGHT_CITY_BANNER_GIF_URL_HERE" width="100%" alt="Night City Banner"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlyNHpvOHEwMjViMWVvYW15a3ptMDNjcDBvbDZna3Nkd2NmNXJ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" width="100%" alt="Night City Banner"/>
 
 <!-- If you don't have a gif yet, uncomment this capsule fallback: -->
 <!--
