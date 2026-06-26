@@ -4,7 +4,7 @@
 <!--           SWAP THIS with a CP2077 city skyline GIF        -->
 <!--  e.g. Night City aerial shot / neon streets in rain       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="assets/bannerOne.gif" width="100%" alt="Night City Banner"/>
+<img src="assets/Banner2.gif" width="100%" alt="Night City Banner"/>
 
 <!-- If you don't have a gif yet, uncomment this capsule fallback: -->
 <!--
@@ -41,7 +41,7 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/Sidebar1.gif" width="230" alt="CP2077 Character"/>
+<img align="right" src="assets/cat.gif" width="230" alt="CP2077 Character"/>
 
 ```yaml
 HANDLE     : Siddharth Tashildar
@@ -120,7 +120,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 <!--   e.g. the braindance scene, netrunning interface, etc.   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="YOUR_HACKING_SCENE_GIF_URL_HERE" width="80%" alt="Netrunning Interface"/>
+<img src="assets/bannerOne.gif" width="80%" alt="Netrunning Interface"/>
 </div>
 
 <br>
