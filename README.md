@@ -102,6 +102,7 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 ![MySQL](https://img.shields.io/badge/MySQL-00F0FF?style=for-the-badge&logo=mysql&logoColor=0D0D0D)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF2D78?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 **`── NETRUNNER TOOLS ──`**
 
 ![Git](https://img.shields.io/badge/Git-FCF000?style=for-the-badge&logo=git&logoColor=0D0D0D)
@@ -109,9 +110,17 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF2D78?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-FCF000?style=for-the-badge&logo=cisco&logoColor=0D0D0D)
 ![Linux](https://img.shields.io/badge/Linux-FCF000?style=for-the-badge&logo=linux&logoColor=0D0D0D)
-![Blender](https://img.shields.io/badge/Blender-FCF000?style=for-the-badge&logo=blender&logoColor=0D0D0D)
 ![Unity](https://img.shields.io/badge/Unity-FCF000?style=for-the-badge&logo=unity&logoColor=0D0D0D)
+
+**`── PREEM TECH (Desing and Code) ──`**
+
+![Figma](https://img.shields.io/badge/Figma-FCF000?style=for-the-badge&logo=figma&logoColor=0D0D0D)
+![Adobe](https://img.shields.io/badge/Adobe-FCF000?style=for-the-badge&logo=adobe&logoColor=0D0D0D)
+![Canva](https://img.shields.io/badge/Canva-FCF000?style=for-the-badge&logo=canva&logoColor=0D0D0D)
+![Blender](https://img.shields.io/badge/Blender-FCF000?style=for-the-badge&logo=blender&logoColor=0D0D0D)
 ![VSCode](https://img.shields.io/badge/VSCode-FCF000?style=for-the-badge&logo=visual-studio-code&logoColor=0D0D0D)
+
+
 
 
 </div>
