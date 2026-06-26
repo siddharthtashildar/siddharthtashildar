@@ -115,10 +115,10 @@ THREAT LEVEL : ██████████ GONK-DESTROYER
 **`── PREEM TECH (Desing and Code) ──`**
 
 ![Figma](https://img.shields.io/badge/Figma-FCF000?style=for-the-badge&logo=figma&logoColor=0D0D0D)
-![Adobe](https://img.shields.io/badge/Adobe-FCF000?style=for-the-badge&logo=adobe&logoColor=0D0D0D)
-![Canva](https://img.shields.io/badge/Canva-FCF000?style=for-the-badge&logo=canva&logoColor=0D0D0D)
+![Adobe](https://img.shields.io/badge/Adobe-00F0FF?style=for-the-badge&logo=adobe&logoColor=0D0D0D)
+![Canva](https://img.shields.io/badge/Canva-FF2D78?style=for-the-badge&logo=canva&logoColor=0D0D0D)
 ![Blender](https://img.shields.io/badge/Blender-FCF000?style=for-the-badge&logo=blender&logoColor=0D0D0D)
-![VSCode](https://img.shields.io/badge/VSCode-FCF000?style=for-the-badge&logo=visual-studio-code&logoColor=0D0D0D)
+![VSCode](https://img.shields.io/badge/VSCode-00F0FF?style=for-the-badge&logo=visual-studio-code&logoColor=0D0D0D)
 
 
 
