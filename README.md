@@ -7,9 +7,9 @@
 <img src="assets/Banner2.gif" width="100%" alt="Night City Banner"/>
 
 <!-- If you don't have a gif yet, uncomment this capsule fallback: -->
-<!--
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SIDDHARTH%20%2F%2F%20TASHILDAR&fontSize=48&color=0,252,255,180,255,45,120&stroke=FC0FC0&strokeWidth=2&fontColor=FCF000&animation=fadeIn&desc=jack%20in.%20stay%20wired.%20never%20flatline.&descSize=16&descAlignY=78&descFontColor=00F0FF" width="100%"/>
--->
+
 
 </div>
 
@@ -36,33 +36,20 @@
 ---
 
 ## `>> OPERATIVE DOSSIER`
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
-<!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/glitch.gif" width="230" alt="CP2077 Character"/>
-
-```yaml
-HANDLE     : Siddharth Tashildar
-ALIAS      : Sid // The Netrunner
-CLASS      : Full-Stack Chrome // Embedded Systems // Network Operative
-CITY       : Night City (Surat, IN)
-STATUS     : 🟡 ONLINE — Jacked in, building in the dark
-FACTION    : Independent Merc // CS Undergrad
-
-NEURAL IMPLANTS (Languages):
-  ├─ Python      ████████████  MAX
-  ├─ C / C++     ██████████░░  HIGH
-  ├─ JavaScript  █████████░░░  HIGH
-  ├─ TypeScript  ████████░░░░  MID
-  ├─ C#          ██████░░░░░░  MID
-  └─ HTML / CSS  ████████████  MAX
-
-THREAT LEVEL : ██████████ GONK-DESTROYER
-```
-
-<br clear="right"/>
+ 
+<table>
+<tr>
+<td valign="top" width="60%">
+<!-- Identity block -->
+<img src="https://img.shields.io/badge/HANDLE-Siddharth%20Tashildar-FCF000?style=flat-square&labelColor=0D0D0D&color=FCF000"/>
+<img src="https://img.shields.io/badge/ALIAS-Sid%20%2F%2F%20The%20Netrunner-00F0FF?style=flat-square&labelColor=0D0D0D&color=00F0FF"/>
+<br/>
+<img src="https://img.shields.io/badge/CLASS-Full--Stack%20Chrome%20%2F%2F%20Embedded%20%2F%2F%20Network%20Operative-FF2D78?style=flat-square&labelColor=0D0D0D"/>
+<br/>
+<img src="https://img.shields.io/badge/CITY-Night%20City%20(Surat%2C%20IN)-FCF000?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/STATUS-🟡%20ONLINE-00FF41?style=flat-square&labelColor=0D0D0D&color=00FF41"/>
+<img src="https://img.shields.io/badge/FACTION-Independent%20Merc%20%2F%2F%20CS%20Undergrad-FF2D78?style=flat-square&labelColor=0D0D0D"/>
+<br/><br/>
 
 ---
 
