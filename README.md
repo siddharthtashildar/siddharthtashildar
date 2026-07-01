@@ -14,23 +14,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=700&color=FCF000&center=true&vCenter=true&width=650&lines=NETRUNNER+%2F%2F+FULL-STACK+CHROME;HARDWIRED+FOR+SYSTEMS+%26+NETWORKS;EMBEDDED+STREET+SAMURAI+%7C+IoT+RIGS;THEY+SAID+BE+NORMAL.+I+FLATLINED+THAT+IDEA." />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=700&color=FCF000&center=true&vCenter=true&width=650&lines=WAKE+THE+F*CK+UP+SAMURAI.;WE+HAVE+CODE+TO+SHIP.;FLATLINE+IS+NOT+AN+OPTION.;NIGHT+CITY+NEVER+SLEEPS+AND+NEITHER+DO+I" />
 </div>
 
+<!-- WAKE+THE+F*CK+UP+SAMURAI.;WE+HAVE+CODE+TO+SHIP.;FLATLINE+IS+NOT+AN+OPTION.;NIGHT+CITY+NEVER+SLEEPS+AND+NEITHER+DO+I. -->
 <br>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ░▒▓ NEURAL INTERFACE BOOT SEQUENCE INITIATED ▓▒░               ║
-║  >> Handshake with NET...                           [████████]  ║
-║  >> Loading RIPPERDOC enhancements...               [████████]  ║
-║  >> ICE bypass protocols armed...                   [ ARMED  ]  ║
-║  >> Flatline protection: ACTIVE                     [  ONLINE ] ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=200&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=>>+NEURAL+INTERFACE+BOOT+SEQUENCE+INITIATED;>>+Handshake+with+NET...+[████████]+OK;>>+RIPPERDOC+enhancements...+[████████]+OK;>>+ICE+bypass+protocols...+[+ARMED+];>>+Flatline+protection...+[+ONLINE+]" alt="Boot Sequence"/>
 </div>
 
 ---
@@ -41,13 +32,13 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/codeglitch.gif" width="407" alt="CP2077 Character"/>
+<img align="right" src="assets/militech.gif" width="230" alt="CP2077 Character"/>
 
 ```yaml
 HANDLE     : Siddharth Tashildar
 ALIAS      : Sid // The Netrunner
 CLASS      : Full-Stack Chrome // Embedded Systems // Network Operative
-CITY       : Night City (Surat, IN)
+LOCATION       : GUJARAT, IN
 STATUS     : 🟡 ONLINE — Jacked in, building in the dark
 FACTION    : Independent Merc // CS Undergrad
 
