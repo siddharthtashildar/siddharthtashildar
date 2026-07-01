@@ -32,11 +32,16 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 <img align="center" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
+</div>
 
 
 
-<br clear="right"/>
+
+
+
 
 ---
 
