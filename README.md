@@ -33,16 +33,9 @@
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="50%" align="center">
-<img src="assets/gemGIF.gif" height="300" alt="CP2077 Character"/>
-</td>
-<td width="50%" align="center">
-<img src="assets/cityVS.gif" height="300" alt="CP2077"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img align="center" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
+</div>
 
 
 
