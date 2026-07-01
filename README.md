@@ -34,7 +34,8 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img align="center" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
+<img align="left" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
+<img align="right" src="assets/cityVS.gif" width="400" alt="CP2077 "/>
 </div>
 
 
