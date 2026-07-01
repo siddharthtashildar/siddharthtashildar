@@ -20,9 +20,9 @@
 <!-- WAKE+THE+F*CK+UP+SAMURAI.;WE+HAVE+CODE+TO+SHIP.;FLATLINE+IS+NOT+AN+OPTION.;NIGHT+CITY+NEVER+SLEEPS+AND+NEITHER+DO+I. -->
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=200&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=>>+NEURAL+INTERFACE+BOOT+SEQUENCE+INITIATED;>>+Handshake+with+NET...+[████████]+OK;>>+RIPPERDOC+enhancements...+[████████]+OK;>>+ICE+bypass+protocols...+[+ARMED+];>>+Flatline+protection...+[+ONLINE+]" alt="Boot Sequence"/>
-</div>
+</div> -->
 
 ---
 
@@ -32,26 +32,9 @@
 <!--   SWAP THIS with a CP2077 character art / V / Johnny GIF  -->
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" src="assets/militech.gif" width="230" alt="CP2077 Character"/>
+<img align="center" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
 
-```yaml
-HANDLE     : Siddharth Tashildar
-ALIAS      : Sid // The Netrunner
-CLASS      : Full-Stack Chrome // Embedded Systems // Network Operative
-LOCATION       : GUJARAT, IN
-STATUS     : 🟡 ONLINE — Jacked in, building in the dark
-FACTION    : Independent Merc // CS Undergrad
 
-NEURAL IMPLANTS (Languages):
-  ├─ Python      ████████████  MAX
-  ├─ C / C++     ██████████░░  HIGH
-  ├─ JavaScript  █████████░░░  HIGH
-  ├─ TypeScript  ████████░░░░  MID
-  ├─ C#          ██████░░░░░░  MID
-  └─ HTML / CSS  ████████████  MAX
-
-THREAT LEVEL : ██████████ GONK-DESTROYER
-```
 
 <br clear="right"/>
 
