@@ -33,13 +33,20 @@
 <!--   e.g. Johnny Silverhand pointing, V with mantis blades   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img align="left" src="assets/gemGIF.gif" width="430" alt="CP2077 Character"/>
-<img align="right" src="assets/cityVS.gif" width="400" alt="CP2077 "/>
-</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="50%" align="center">
+<img src="assets/gemGIF.gif" height="300" alt="CP2077 Character"/>
+</td>
+<td width="50%" align="center">
+<img src="assets/cityVS.gif" height="300" alt="CP2077"/>
+</td>
+</tr>
+</table>
 
 
 
+<br>
 
 
 
